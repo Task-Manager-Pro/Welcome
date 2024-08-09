@@ -29,13 +29,13 @@ Para instalar e utilizar o Task Manager, siga as instruções abaixo:
 
 1. Clone o repositório do backend.
 2. Execute `dotnet restore` para restaurar as dependências.
-3. Execute `dotnet run` para iniciar o servidor.
+3. Execute o projeto no Visual Studio [IIS Express] ou utilize `dotnet watch` no visual studio code.
 
 ### Frontend
 
 1. Clone o repositório do frontend.
-2. Execute `npm install` para instalar as dependências.
-3. Execute `ng serve` para iniciar o servidor de desenvolvimento.
+2. Execute `npm install --force` para instalar as dependências.
+3. Execute `npm start` para iniciar o servidor de desenvolvimento.
 
 ## Recursos Adicionais
 
