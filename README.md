@@ -39,8 +39,8 @@ Para instalar e utilizar o Task Manager, siga as instruções abaixo:
 
 ## Recursos Adicionais
 
-- [Backend ](https://github.com/Romulo-Queiroz/Task-Manager-Angular)
-- [Frontend](https://github.com/Romulo-Queiroz/Task-Manager-Backend)
+- [Backend ](https://github.com/Task-Manager-Pro/Task-Manager-Csharp)
+- [Frontend](https://github.com/Task-Manager-Pro/Task-Manager-Angular)
 
 ## Licença
 
